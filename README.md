@@ -12,3 +12,7 @@
 # Recipe-box-sample
 - Description: A simple blog with post, comment, registration...
 - Source: https://github.com/cthanh2803/recipe-box-sample/
+
+# Pinterest-sample
+- Description: Clone of pinterest web
+- Source: https://github.com/cthanh2803/pinterest-sample/
